@@ -12,9 +12,9 @@ My name is Myrto and I am an undergraduate student in the department of informat
 
 ### Tech Knowledge
 - 💻 
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=00599C)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-FF1B2D?style=flat&logo=Java&logoColor=white)
 
 - 🌐
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5)
@@ -29,12 +29,12 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Latex](https://img.shields.io/badge/latex-008080.svg?&style=flat&logo=latex&logoColor=white)
 
 - ⚙️
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/sublime-FF9800.svg?&style=flat&logo=sublime-text&logoColor=white)
+  ![Sublime](https://img.shields.io/badge/sublime-333333.svg?&style=flat&logo=sublime-text&logoColor=FF9800)
   ![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
   
