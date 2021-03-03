@@ -12,21 +12,21 @@ My name is Myrto and I am an undergraduate student in the department of informat
 
 ### Tech Knowledge
 - 💻 
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-FF1B2D?style=flat&logo=Java&logoColor=white)
 
 - 🌐
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 - 🛢
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
   
 - 📝
-  ![Latex](https://img.shields.io/badge/latex-008080.svg?&style=flat&logo=latex&logoColor=white)
+  ![Latex](https://img.shields.io/badge/Latex-008080.svg?&style=flat&logo=latex&logoColor=white)
 
 - ⚙️
   ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
@@ -34,13 +34,13 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/sublime-333333.svg?&style=flat&logo=sublime-text&logoColor=FF9800)
-  ![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
+  ![Sublime](https://img.shields.io/badge/Sublime-333333.svg?&style=flat&logo=sublime-text&logoColor=FF9800)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
   
 - 🛠️
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux)
-  ![Windows](https://img.shields.io/badge/-windows-0078D4?style=flat&logo=Windows)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows)
   
   
   ### GitHub Statistics 	📊
