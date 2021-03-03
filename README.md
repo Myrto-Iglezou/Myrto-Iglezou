@@ -24,7 +24,7 @@ My name is Myrto and I am an undergraduate student in the department of informat
 - 🛢
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
--📝
+- 📝
   ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=Latex)
 
 - ⚙️
@@ -35,8 +35,7 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime](https://img.shields.io/badge/-sublime-333333?style=flat&logo=Sublime-ide&logoColor=2C2255)
   ![Jupyter](https://img.shields.io/badge/-jupyter-333333?style=flat&logo=Jupyter-ide&logoColor=2C2255)
-  ![Anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=Anaconda-ide&logoColor=2C2255)
-  ![Google Colab](https://img.shields.io/badge/-Google Colab-333333?style=flat&logo=Google Colab-ide&logoColor=2C2255)
+  ![Anaconda](https://img.shields.io/badge/anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=2C2255)
   
 - 🛠️
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=Linux)
@@ -51,3 +50,8 @@ My name is Myrto and I am an undergraduate student in the department of informat
 <a href="https://github.com/Myrto-Iglezou/Myrto-Iglezou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Myrto-Iglezou&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=gradient" alt="GitHub Stats" />
 </a>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Myrto-Iglezou&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/Myrto-Iglezou/Myrto-Iglezou?color=black&logo=github" />
+</p>
