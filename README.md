@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Myrto-Iglezou/Myrto-Iglezou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Myrto and I am an undergraduate student in the department of informatics and telecommunications of the National Kapodistrian University of Athens. I live in Greece, but I really want to travel and meet new cultures and people.
 
 ### About Me 😃
