@@ -14,7 +14,7 @@ My name is Myrto and I am an undergraduate student in the department of informat
 - 📖 Love reading books, mainly psychological and scientific content.
 - 🎥 Really enjoy watching movies.
 
-### Tech Knowledge
+### Tech Knowledge 🛠️
 - 💻 
   ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -46,8 +46,7 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows)
   
-  
-  ### GitHub Statistics 	📊
+### GitHub Statistics 📊
 
 <a href="https://github.com/Myrto-Iglezou/Myrto-Iglezou">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrto-Iglezou&theme=dracula" />
