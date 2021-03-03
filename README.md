@@ -23,10 +23,10 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
 - 🛢
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
   
 - 📝
-  ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=Latex)
+  ![Latex](https://img.shields.io/badge/latex-008080.svg?&style=flat&logo=latex&logoColor=white)
 
 - ⚙️
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -34,13 +34,13 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/sublime-FF9800.svg?style=flat&logo=Sublime-ide&logoColor=2C2255)
-  ![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?style=flat&logo=Jupyter-ide&logoColor=2C2255)
-  ![Anaconda](https://img.shields.io/badge/anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=2C2255)
+  ![Sublime](https://img.shields.io/badge/sublime-FF9800.svg?&style=flat&logo=sublime-text&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
   
 - 🛠️
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux)
-  ![Windows](https://img.shields.io/badge/-windows-333333?style=flat&logo=Windows)
+  ![Windows](https://img.shields.io/badge/-windows-0078D4?style=flat&logo=Windows)
   
   
   ### GitHub Statistics 	📊
