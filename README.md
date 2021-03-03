@@ -22,7 +22,7 @@ My name is Myrto and I am an undergraduate student in the department of informat
 
 - 🌐
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-0078D4?style=flat&logo=CSS3&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
