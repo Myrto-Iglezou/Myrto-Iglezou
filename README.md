@@ -39,7 +39,7 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
   ![Sublime](https://img.shields.io/badge/Sublime-333333.svg?&style=flat&logo=sublime-text&logoColor=FF9800)
   ![Anaconda](https://img.shields.io/badge/Anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=FCC624)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows)
   
 ### GitHub Statistics 📊
