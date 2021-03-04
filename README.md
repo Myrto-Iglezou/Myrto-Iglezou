@@ -15,12 +15,10 @@ My name is Myrto and I am an undergraduate student in the department of informat
 - 🎥 Really enjoy watching movies.
 
 ### Tech Knowledge 🛠️
-- 💻 
+- 💻🌐 
   ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-FF1B2D?style=flat&logo=Java&logoColor=white)
-
-- 🌐
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-0078D4?style=flat&logo=CSS3&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -41,9 +39,7 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
   ![Sublime](https://img.shields.io/badge/Sublime-333333.svg?&style=flat&logo=sublime-text&logoColor=FF9800)
   ![Anaconda](https://img.shields.io/badge/Anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
-  
-- 🛠️
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=Linux&logoColor=FCC624)
   ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows)
   
 ### GitHub Statistics 📊
