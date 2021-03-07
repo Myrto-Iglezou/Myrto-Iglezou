@@ -29,18 +29,17 @@ My name is Myrto and I am an undergraduate student in the department of informat
   
 - 📝
   ![Latex](https://img.shields.io/badge/Latex-008080.svg?&style=flat&logo=latex&logoColor=white)
-
-- ⚙️
-  ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧
+ 
+- 🔧⚙️
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D.svg?&style=flat&logo=jupyter&logoColor=white)
   ![Sublime](https://img.shields.io/badge/Sublime-333333.svg?&style=flat&logo=sublime-text&logoColor=FF9800)
   ![Anaconda](https://img.shields.io/badge/Anaconda-42B029.svg?style=flat&logo=Anaconda&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=333333)
   ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows)
+  ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
   
 ### GitHub Statistics 📊
 
