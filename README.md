@@ -47,7 +47,7 @@ My name is Myrto and I am an undergraduate student in the department of informat
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrto-Iglezou&theme=dracula" />
 </a>
 <a href="https://github.com/Myrto-Iglezou/Myrto-Iglezou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Myrto-Iglezou&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues&theme=dracula" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Myrto-Iglezou&show_icons=true&line_height=27&count_private=true&hide=prs,issues&theme=dracula" alt="GitHub Stats" />
 </a>
 
 <p align="right">
