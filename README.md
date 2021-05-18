@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Myrto and I am an undergraduate student in the department of informatics and telecommunications of the National Kapodistrian University of Athens. I live in Greece, but I really want to travel and meet new cultures and people.
+My name is Myrto and I am an undergraduate student in the department of informatics and telecommunications of the National and Kapodistrian University of Athens. I live in Greece, but I really want to travel and meet new cultures and people.
 
 <a href="https://www.linkedin.com/in/myrto-iglezou/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
