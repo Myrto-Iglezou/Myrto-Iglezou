@@ -41,15 +41,6 @@ My name is Myrto and I am an undergraduate student in the department of informat
   ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
   
-### GitHub Statistics 📊
-
-<a href="https://github.com/Myrto-Iglezou/Myrto-Iglezou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myrto-Iglezou&layout=compact&theme=dracula" />
-</a>
-<a href="https://github.com/Myrto-Iglezou/Myrto-Iglezou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Myrto-Iglezou&show_icons=true&line_height=27&count_private=true&hide=prs,issues&theme=dracula" alt="GitHub Stats" />
-</a>
-
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Myrto-Iglezou&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/Myrto-Iglezou/Myrto-Iglezou?color=black&logo=github" />
