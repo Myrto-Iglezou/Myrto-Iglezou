@@ -9,12 +9,10 @@ My name is Myrto and I am an undergraduate student in the department of informat
 ### About Me 😃
 
 - 🎓 Senior student in the department of informatics of University of Athens(UoA).
-- 💼 Currently seeking intern or junior positions on machine learning, artificial intelligence or front, back, full stack web development.
+- 💼 Currently working on machine learning projects.
 - 💡 Acquisition of new knowledge, search for new methods of problem solving and experimentation with new technologies.
 - 📖 Love reading books, mainly psychological and scientific content.
 - 🎥 Really enjoy watching movies.
-
-
   
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Myrto-Iglezou&style=plastic&label=Views"><img>
