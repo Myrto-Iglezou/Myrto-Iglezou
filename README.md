@@ -2,7 +2,7 @@
  
 <p align="center">
  <a href="https://myrto-iglezou.github.io/"> <img src="./images/website-ui-web-svgrepo-com.svg" width="30px"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
- <a href="https://www.linkedin.com/in/myrto-iglezou/"><img src="./images/linkedin-svgrepo-com.svg" width="30px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ <a href="https://www.linkedin.com/in/myrto-iglezou/"><img src="./images/linkedin-svgrepo-com.svg" width="30px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  <a href="mailto:myrto.ig@gmail.com"> <img src="./images/email-svgrepo-com.svg" width="30px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
  
