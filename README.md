@@ -1,9 +1,9 @@
 ### Hi there 👋
  
 <p align="center">
- <a href="https://myrto-iglezou.github.io/" > <img src="./imagesglobe-svgrepo-com.svg" width="20px"/> </a>
+ <a href="https://myrto-iglezou.github.io/" > <img src="./images/globe-svgrepo-com.svg" width="20px"/> </a>
  <a href="https://www.linkedin.com/in/myrto-iglezou/" class="contact-item"><img src="./images/linkedin-social-media-svgrepo-com.svg" width="20px"/></a>
- <a href="mailto:myrto.ig@gmail.com" class="contact-item"> <img src="./imagesenvelope-svgrepo-com.svg" width="20px"/></i></a>
+ <a href="mailto:myrto.ig@gmail.com" class="contact-item"> <img src="./images/envelope-svgrepo-com.svg" width="20px"/></i></a>
 </p>
  
 <p align="right">
